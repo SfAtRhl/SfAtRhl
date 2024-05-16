@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Soufyane</h1>
+<h1 align="center">Hi, I'm Sofyan, aka SfAtRhl! 👋</h1>
 
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">Passionate Developer. Welcome to my GitHub Space. 👋 </h3>
 
-### <div align="center">I'm Soufyane, a full-time freelance developer 👨‍💻 working remotely since 2022 🚀</div>
+#### About Me
 
-- 🌱 I’m currently learning **everything related to Web/Mobile developement**
-- ❓ Ask me about **anything related to technologies**
--  📫 How to reach me **sofyan.ait.rehail@gmail.com**
-- ⚡ Fun fact: [ I use tabs over spaces ]
+I am a lifelong learner, always seeking to expand my horizons. Thus, I am continuously exploring my capabilities to build efficient and scalable web applications.
+
+- 🌱 I’m currently learning **everything related to Web and Mobile development**
+- ❓ Ask me about **anything tech-related**
+- 📝 Checkout my **<a href="https://drive.google.com/file/d/1u4eC3PhHRPTFnwBxtHY0gq6DBQt31PSx/view">Resume</a>**
+- 📫 Reach out to me at **<a href="mailto:sofyan.ait.rehail@gmail.com">Mail</a>**
+- ⚡ Fun fact: I prefer [tabs over spaces]
 
 <br/>
 
-## My Skill Set
+#### My Skill Set
 
 <table><tr><td valign="top" >
 
@@ -35,7 +38,7 @@
 </div>
 </td></tr></table>
 
-## Connect with me
+#### Connect with me
 
 <div align="center">
 <a href="https://github.com/SfAtRhl" target="_blank">
@@ -49,13 +52,12 @@
 </a>  
 </div>
 
-</div>  
- 
+</div>
 
-
-## Github Stats
-
+#### Github Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sfatrhl&" alt="sfatrhl" /></p>
   
+<h1></h1>
 
+<p>Thanks for visiting my GitHub account & exploring my projects. Here's <a href="https://sofyane-ait-rehail-portfolio.vercel.app/">my website</a> to look more into my little space on this big space called the Internet. 😄</p>
